@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/khophisnow/product-preview-card-component-main.git)
-- Live Site URL: [Live Site](https://khophisnow.github.io/product-preview-card-component-main/)
+- Solution URL: [Solution](https://github.com/khophisnow/interactive-rating-component-main.git)
+- Live Site URL: [Live Site](https://khophisnow.github.io/interactive-rating-component-main/)
 
 ## My process
 
